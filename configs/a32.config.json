@@ -50,7 +50,7 @@
         "OBJSIZE": "llvm-size",
         "STRIP": "llvm-strip",
         "LLVM_AR": "llvm-ar",
-        "LLVM_DIS": "llvm-dis",
+        "LLVM_DIS": "llvm-dis"
       }
     },
     "AnyKernel3": {
