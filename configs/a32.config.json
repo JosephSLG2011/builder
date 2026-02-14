@@ -5,7 +5,7 @@
       "repo": "https://github.com/JosephSLG2011/Test",
       "branch": "h-kernel-permissive",
       "device": "j7velte",
-      "defconfig": "to see"
+      "defconfig": "exynos7870-j7velte-defconfig"
     },
     "toolchains": [
       {
