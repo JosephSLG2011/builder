@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "JosephSLG2011",
       "repo": "https://github.com/JosephSLG2011/Test",
-      "branch": "h-kernel-permissive",
+      "branch": "h-kernel_permissive",
       "device": "j7velte",
       "defconfig": "exynos7870-j7velte_defconfig"
     },
