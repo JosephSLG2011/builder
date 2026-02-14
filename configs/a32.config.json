@@ -57,7 +57,7 @@
       "use": true,
       "release": true,
       "repo": "https://github.com/AndroidHQ254/AnyKernel3/",
-      "branch": "a32"
+      "branch": "master"
     },
     "enableKernelSU": true
   }
